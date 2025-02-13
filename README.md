@@ -47,7 +47,7 @@
 | Component         | Link  | 
 |---|---|
 | Solid rocket motor design calculation  |   |
-| OpenMotor simulation file | https://github.com/nakujaproject/N-4_Solid_Propulsion/blob/main/Grains/N4_grain%20design.ric |  
+| OpenMotor simulation file | [a link] (https://github.com/nakujaproject/N-4_Solid_Propulsion/blob/main/Grains/N4_grain%20design.ric) |  
 | Casing CAD data  |  |  
 | Casing drawing  | |
 | Nozzle CAD data  |  |  
