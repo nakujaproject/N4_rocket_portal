@@ -48,12 +48,12 @@
 |---|---|
 | Solid rocket motor design calculation  | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/blob/main/SRM%20Components/Design%20Calculations.pdf)  |
 | OpenMotor simulation file | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/blob/main/Grains/N4_grain%20design.ric) |  
-| Casing CAD data  | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/tree/main/SRM%20Components)  |  
-| Casing drawing  | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/tree/main/SRM%20Components)|
-| Nozzle CAD data  | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/tree/main/SRM%20Components) |  
-| Nozzle drawing (No mounting holes)  |   |  
-| Bulkhead CAD data |   |  
-| Bulkhead drawing (No mounting holes) | |
+| Casing CAD data  | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/blob/main/SRM%20Components/Casing.SLDPRT)  |  
+| Casing drawing  | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/blob/main/SRM%20Components/Bulkhead_Drawing.pdf)|
+| Nozzle CAD data  | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/blob/main/SRM%20Components/Nozzle2.SLDPRT) |  
+| Nozzle drawing (No mounting holes)  | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/blob/main/SRM%20Components/Nozzle2_Drawing_redesigned.PDF)  |  
+| Bulkhead CAD data |  [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/blob/main/SRM%20Components/Bulkhead.SLDPRT) |  
+| Bulkhead drawing (No mounting holes) | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/blob/main/SRM%20Components/Bulkhead_Drawing.pdf)|
 | SRM casting video| | 
 
 ![](image/n4_motor.jpeg)
