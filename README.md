@@ -46,7 +46,7 @@
 
 | Component         | Link  | 
 |---|---|
-| Solid rocket motor design calculation  |   |
+| Solid rocket motor design calculation  | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/blob/main/SRM%20Components/Design%20Calculations.pdf)  |
 | OpenMotor simulation file | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/blob/main/Grains/N4_grain%20design.ric) |  
 | Casing CAD data  | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/tree/main/SRM%20Components)  |  
 | Casing drawing  | [link](https://github.com/nakujaproject/N-4_Solid_Propulsion/tree/main/SRM%20Components)|
