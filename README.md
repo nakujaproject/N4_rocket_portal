@@ -35,10 +35,10 @@
 ## Recovery
 | Component         | Link  | 
 |---|---|
-| Flight computer PCB design (Wifi-based. 3 of 4 N-3 rockets use this design) | []() |
+| Flight computer PCB design (Wifi-based. 3 of 4 N-3 rockets use this design) | [PCB designs](https://github.com/nakujaproject/N4-Flight-Hardware) |
 | Flight computer PCB design (LoRa-based. 1 of 4 N-3 rocket uses this design) | []() |
 | Ejection PCB design | []() |
-| Flight computer firmware |   |  
+| Flight computer firmware | [Flight software](https://nakujaproject.com/N4-Flight-Software/)  |  
 | Ground station dashboard |  | 
 
 
