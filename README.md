@@ -7,11 +7,11 @@
 | Rocket | N-4  <br>(Names TBD) |
 | --- | --- |
 | Airframe material | Fibreglass |
-| Length | 254 cm |
-| External diameter | 109 mm |
+| Length | 255 cm |
+| External diameter | 110 mm |
 | Dry mass | 13.1 kg |
-| Total mass | 25.8 kg |
-| Simulated apogee | 3,540 m |
+| Total mass | 24.8 kg |
+| Simulated apogee | 3,702 m |
 | Propellant | KNSB |
 | Simulated total impulse | 8,315 \[N•s\] (M2410 motor) |
 
@@ -25,9 +25,9 @@
 ## Airframe
 | Component         | Link  | 
 |---|---|
-| OpenRocket simulation file |   |
-| Airframe CAD data   |   |
-| 3D Print data (Nose cone, launch lugs)| |
+| OpenRocket simulation file |[link]https://github.com/nakujaproject/N4-Airframe-CAD-files/blob/main/N4_current.ork   |
+| Airframe CAD data   |[link]https://github.com/nakujaproject/N4-Airframe-CAD-files   |
+| 3D Print data (Nose cone, launch lugs)|[link]https://github.com/nakujaproject/N4-Airframe-CAD-files |
 | Avionics bay design data | |
 | Parachute design data | |
 | Fin design data | |
